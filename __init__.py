@@ -32,18 +32,20 @@ def Search():
 	global user
 
 	if request.method == 'POST':
-			stud_id=request.form['stud_id']
-			print(stud_id)
-			mess=list(admin.find({"user_id":user}))
-			print(mess[3])
-			data=list(student.find({"mess":mess[3]}))
-			print("{}".format(data[1]))
-			data1=list(student.find({"stud_id":stud_id}))
-			for i in range(len(data)):
-    				if(stud_id==data[i][1]):
-    					return redirect(url_for('index2', data = data1))
-			else:
-				return redirect(url_for('index3'))
+		stud_id=request.form["stud_id"]
+		
+		mess=list(admin.find({"user_id":user}))
+		print(mess[0]["mess"])
+
+		data=list(student.find({"mess":mess[0]["mess"]}))
+
+		data1=list(student.find({"stud_id":stud_id}))
+
+		for i in range(len(data)):
+			if(stud_id==data[i]["stud_id"]):
+				return render_template("index2.html", data = data1)
+		else:
+			return render_template("index3.html")
     						
 
 @app.route('/login', methods = ['POST', 'GET'])
