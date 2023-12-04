@@ -1,0 +1,30 @@
+[
+  {
+    _id: ObjectId("65570cde4b36d45d52ad2c9b"),
+    incha_id: 'nittm1',
+    name: 'subbarao',
+    mess: 'MM1',
+    mess_type: 'south_indian'
+  },
+  {
+    _id: ObjectId("65570cde4b36d45d52ad2c9c"),
+    incha_id: 'nittm2',
+    name: 'yallaya',
+    mess: 'MM2',
+    mess_type: 'south_indian'
+  },
+  {
+    _id: ObjectId("65570cde4b36d45d52ad2c9d"),
+    incha_id: 'nittm3',
+    name: 'saharsh',
+    mess: 'MM3',
+    mess_type: 'north_indian'
+  },
+  {
+    _id: ObjectId("65570cde4b36d45d52ad2c9e"),
+    incha_id: 'nittm4',
+    name: 'hidimba',
+    mess: 'MM4',
+    mess_type: 'Andhra_mess'
+  }
+]

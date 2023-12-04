@@ -1,0 +1,182 @@
+[
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2c9f"),
+    stud_id: 23001,
+    name: 'abhi',
+    mess: 'MM3',
+    hostel: 'Garnet-c',
+    room_no: 100,
+    phone: [ 9845612345, 9234567891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca0"),
+    stud_id: 23002,
+    name: 'aadhi',
+    mess: 'MM2',
+    hostel: 'Garnet-c',
+    room_no: 110,
+    phone: [ 9845612445, 9234567891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca1"),
+    stud_id: 23003,
+    name: 'om',
+    mess: 'MM3',
+    hostel: 'Garnet-a',
+    room_no: 102,
+    phone: [ 9845612245, 9234367891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca2"),
+    stud_id: 23004,
+    name: 'bunty',
+    mess: 'MM1',
+    hostel: 'Garnet-b',
+    room_no: 100,
+    phone: [ 9845312345, 9234567391 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca3"),
+    stud_id: 23005,
+    name: 'bablu',
+    mess: 'MM4',
+    hostel: 'Garnet-c',
+    room_no: 101,
+    phone: [ 9835612345, 8234567891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca4"),
+    stud_id: 23006,
+    name: 'babu',
+    mess: 'MM2',
+    hostel: 'Garnet-a',
+    room_no: 107,
+    phone: [ 9845612385, 9234569891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca5"),
+    stud_id: 23007,
+    name: 'chichu',
+    mess: 'MM4',
+    hostel: 'Garnet-b',
+    room_no: 108,
+    phone: [ 9845612245, 9234567821 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca6"),
+    stud_id: 23008,
+    name: 'chunty',
+    mess: 'MM1',
+    hostel: 'Garnet-a',
+    room_no: 109,
+    phone: [ 9845612345, 9264567891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca7"),
+    stud_id: 23009,
+    name: 'chitti',
+    mess: 'MM3',
+    hostel: 'Garnet-a',
+    room_no: 120,
+    phone: [ 9245612345, 9234567491 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca8"),
+    stud_id: 23010,
+    name: 'dongly',
+    mess: 'MM4',
+    hostel: 'Garnet-c',
+    room_no: 130,
+    phone: [ 9845615345, 9234567691 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2ca9"),
+    stud_id: 23011,
+    name: 'dinda',
+    mess: 'MM2',
+    hostel: 'Garnet-b',
+    room_no: 109,
+    phone: [ 9845612315, 9234467891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2caa"),
+    stud_id: 23012,
+    name: 'dj',
+    mess: 'MM2',
+    hostel: 'Garnet-a',
+    room_no: 110,
+    phone: [ 9845652345, 9334567891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2cab"),
+    stud_id: 23013,
+    name: 'ingram',
+    mess: 'MM4',
+    hostel: 'Garnet-b',
+    room_no: 102,
+    phone: [ 9845612045, 9234564891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2cac"),
+    stud_id: 23014,
+    name: 'joe',
+    mess: 'MM1',
+    hostel: 'Garnet-c',
+    room_no: 103,
+    phone: [ 9845610345, 9234560891 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2cad"),
+    stud_id: 23015,
+    name: 'bupesh',
+    mess: 'MM1',
+    hostel: 'Garnet-c',
+    room_no: 106,
+    phone: [ 9845612345 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2cae"),
+    stud_id: 23016,
+    name: 'rocky',
+    mess: 'MM1',
+    hostel: 'Jade',
+    room_no: 118,
+    phone: [ 9841612345 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2caf"),
+    stud_id: 23017,
+    name: 'balu',
+    mess: 'MM4',
+    hostel: 'Jade',
+    room_no: 113,
+    phone: [ 9841652345 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2cb0"),
+    stud_id: 23018,
+    name: 'padole',
+    mess: 'MM3',
+    hostel: 'Jade',
+    room_no: 118,
+    phone: [ 9841612346 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2cb1"),
+    stud_id: 23019,
+    name: 'payani',
+    mess: 'MM2',
+    hostel: 'Jade',
+    room_no: 119,
+    phone: [ 9841452345, 8354612378 ]
+  },
+  {
+    _id: ObjectId("655712ca4b36d45d52ad2cb2"),
+    stud_id: 23020,
+    name: 'cheta',
+    mess: 'MM4',
+    hostel: 'Jade',
+    room_no: 119,
+    phone: [ 9841612305 ]
+  }
+]
